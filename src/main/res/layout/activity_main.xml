@@ -12,7 +12,7 @@
         style="@android:style/Widget.ProgressBar.Horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:progress="25"
+        android:progress="0"
         android:progressBackgroundTint="@color/cardview_dark_background"
         android:progressTint="@color/teal_200"/>
     <TextView
