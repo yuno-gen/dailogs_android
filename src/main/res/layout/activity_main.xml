@@ -44,7 +44,7 @@
         android:textSize="20dp"
         android:layout_gravity="center"
         />
-    <include layout="@android:layout/text_input"/>
+
     <Button
         android:id="@+id/ques3"
         android:layout_width="wrap_content"
